@@ -1,0 +1,6 @@
+*.sln
+*.csproj
+ApartmentViz/.vscode/
+ApartmentViz/Library/
+ApartmentViz/Temp/
+ApartmentViz/Logs/
