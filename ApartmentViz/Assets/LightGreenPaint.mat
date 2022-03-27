@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WoodLight_Mat
+  m_Name: LightGreenPaint
   m_Shader: {fileID: -6465566751694194690, guid: 3e07a08d07c12a14facebed2dc4365ea, type: 3}
   m_ShaderKeywords: _DETAIL_MAP _DISABLE_SSR_TRANSPARENT _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
   m_LightmapFlags: 4
@@ -91,11 +91,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 03111a7989fd3eb41916bf24c9a256f2, type: 3}
+        m_Texture: {fileID: 2800000, guid: d06491afde0c78547b7950131646d9b1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: 34b5d6ba9e247b646980d66789acc209, type: 3}
+        m_Texture: {fileID: 2800000, guid: ddda3ec5195b2934293412acc6814942, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
@@ -103,7 +103,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: e94aa5e9556dada47b0802d32381a7c9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4ab20b096e6c9db4b99acb2723981944, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -263,7 +263,7 @@ Material:
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
-    - _Tiling: 1.69
+    - _Tiling: 5.2
     - _TransmissionEnable: 1
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
@@ -284,7 +284,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _AdditiveTint: {r: 1, g: 1, b: 1, a: 1}
+    - _AdditiveTint: {r: 0, g: 0, b: 0, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -297,7 +297,7 @@ Material:
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _Tint: {r: 0.6780267, g: 0.7735849, b: 0.5947846, a: 1}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TriplanarNormal: {r: 1, g: 1, b: 1, a: 0}
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}

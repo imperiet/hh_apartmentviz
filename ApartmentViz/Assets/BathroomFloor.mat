@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WoodLight_Mat
+  m_Name: BathroomFloor
   m_Shader: {fileID: -6465566751694194690, guid: 3e07a08d07c12a14facebed2dc4365ea, type: 3}
   m_ShaderKeywords: _DETAIL_MAP _DISABLE_SSR_TRANSPARENT _MASKMAP _NORMALMAP _NORMALMAP_TANGENT_SPACE
   m_LightmapFlags: 4
@@ -91,11 +91,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 03111a7989fd3eb41916bf24c9a256f2, type: 3}
+        m_Texture: {fileID: 2800000, guid: e54bc324c3dedfd44b5eb282b685c479, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: 34b5d6ba9e247b646980d66789acc209, type: 3}
+        m_Texture: {fileID: 2800000, guid: 03b4b07b2dfc5dd4cbd6b33b525cb81c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal:
@@ -103,7 +103,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: e94aa5e9556dada47b0802d32381a7c9, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4fc3421aae4cedf4fb736f2532daa589, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -263,7 +263,7 @@ Material:
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
-    - _Tiling: 1.69
+    - _Tiling: 5.2
     - _TransmissionEnable: 1
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
@@ -297,7 +297,7 @@ Material:
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _Tint: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 1}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TriplanarNormal: {r: 1, g: 1, b: 1, a: 0}
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}

@@ -3,7 +3,72 @@ guid: 06c6754472643274b96a05095d170c33
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_armrest_left_L
+    second: {fileID: 2100000, guid: 54565d67189eb694c82abf0e93ae86bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_armrest_right_L
+    second: {fileID: 2100000, guid: 2d9c7912acd211c40a0e28a1e852b8af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_base_L
+    second: {fileID: 2100000, guid: 8b73c5e932552834e9aa578ca6803f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_metal_L
+    second: {fileID: 2100000, guid: 122dbffe6cac4d64b8d6b99d520ea80a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_pillow_center_L
+    second: {fileID: 2100000, guid: a653d0b270913aa43a85f587ae57f360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_pillow_left
+    second: {fileID: 2100000, guid: 7d28a620faad10040898c4bb42468c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_pillow_right_L
+    second: {fileID: 2100000, guid: 8247e66fa1d06ba4ea75090ec2507ccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_sec_base_L&R_L
+    second: {fileID: 2100000, guid: bf37008b7f607ee48827ba03a9022166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_second_base_center_L
+    second: {fileID: 2100000, guid: 7ea6439b9a120a14d9590f5b12bb42ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_therd_base_left_L
+    second: {fileID: 2100000, guid: 86e7e54bc9ae5db4eb498bf12b1c13bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_therd_base_right_L
+    second: {fileID: 2100000, guid: 38c3344d85347c140a3b560e54ddf316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_third_base_cent_L
+    second: {fileID: 2100000, guid: 9848e2574196e9c44875f14cfc784337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 20e263554b5a74e49ac96fbcd4e8a5e7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -35,7 +100,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.4
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -88,7 +153,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.4
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
